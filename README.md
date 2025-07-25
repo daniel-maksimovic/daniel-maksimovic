@@ -80,7 +80,7 @@ Solidity · Hardhat
 ## Education
 
 * **MSc Computer Science, University of Zurich** *(2024 – 2026, GPA 5.6/6.0)* — Major: Information Systems · Minor: Informatics.
-* **BSc Computer Science, University of Zurich** *(2021 – 2024)* — **magna cum laude**; Minor: Banking & Finance.
+* **BSc Computer Science, University of Zurich** *(2021 – 2024)* — Major: Information Systems · Minor: Banking & Finance.
 
 ---
 
