@@ -6,7 +6,7 @@ Building secure, dependable **AI systems** that people can really use — from t
 
 [![GitHub](https://img.shields.io/badge/GitHub-daniel--maksimovic-181717?logo=github)](https://github.com/daniel-maksimovic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--maksimovic-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daniel-maksimovic/)
-[![Email](https://img.shields.io/badge/Email-daniel.maksimovic01%40gmail.com-D14836?logo=gmail\&logoColor=white)](mailto:daniel.maksimovic01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-daniel.maksimovic%40uzh.ch-D14836?logo=gmail\&logoColor=white)](mailto:daniel.maksimovic@uzh.ch)
 
 ---
 
