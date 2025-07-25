@@ -40,15 +40,13 @@ Building secure, dependable **AI systems** that people can really use — from t
 * **Taboo Online** — Multiplayer game with websockets, lobbies, and high test coverage.
   *React, Spring Boot, Java.*
 
-> 🔎 I’m happy to open‑source more code from these projects where licensing and employer policy allow. Ping me if a repo would be useful to you.
-
 ---
 
 ## Experience
 
 * **Teaching Assistant — Business Informatics II, UZH** *(Jul 2025 – present)*
   Tutorials for \~80 students; BPMN & ERPsim; materials, grading, and exam support.
-* **Consulting Working Student — Eraneos Switzerland AG** *(Sep 2024 – present)*
+* **Software Engineer Working Student — Eraneos Switzerland AG** *(Sep 2024 – present)*
   Full‑stack development of an enterprise RAG chatbot; Azure deployment; security & observability.
 * **Software Engineer Intern — Consor AG** *(Jul – Sep 2023)*
   Built a **license server** for Consor Universal with Spring Boot, Docker, Jenkins CI/CD, **Kubernetes**; encrypted, isolated access for insurers in CH & DE.
@@ -88,6 +86,6 @@ Solidity · Hardhat
 
 ## Let’s connect
 
-* 📫 **[daniel.maksimovic01@gmail.com](mailto:daniel.maksimovic01@gmail.com)**
+* 📫 **[daniel.maksimovic@uzh.ch](mailto:daniel.maksimovic@uzh.ch)**
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/daniel-maksimovic/](https://www.linkedin.com/in/daniel-maksimovic/)
 * 🧑‍💻 **GitHub:** [https://github.com/daniel-maksimovic](https://github.com/daniel-maksimovic)
