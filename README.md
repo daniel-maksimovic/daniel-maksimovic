@@ -31,14 +31,17 @@ Building secure, dependable **AI systems** that people can really use — from t
 
 * **Therapist App (MSc project)** — Full‑stack platform for creating AI chatbots for therapy sessions; patient management, session analytics, and safe deployment.
   *Java, Spring Boot, TypeScript/React, Kubernetes, Docker, Vite, SonarCloud.*
-* **Business Network Advisor (Eraneos)** — Enterprise **RAG** chatbot with SCION secure networking and local **Llama** models via AnythingLLM & LM Studio; Azure deployment.
+  ▶︎ Repo: **therapist-app/therapist-app** — [https://github.com/therapist-app/therapist-app](https://github.com/therapist-app/therapist-app)
+* **Business Network Advisor (Eraneos)** — Enterprise **RAG** chatbot with SCION secure networking and local **Llama** models via AnythingLLM & LM Studio; Azure deployment.
   *Spring Boot, React, Azure.*
 * **No‑Code/Click‑and‑Drop Chatbot Builder (BSc thesis)** — GCP‑deployed platform enabling non‑technical users to build and embed educational/therapeutic chatbots. **Grade 5.5/6.0 (magna cum laude).**
   *React, Spring Boot, Node.js, SonarCloud, GCP.*
 * **Blockchain Presence / Equity‑Token** — ERC‑20 extension aligned with **CMTA (2018)** blueprint; comprehensive **Hardhat** testing for Swiss equity tokens.
   *Solidity, Hardhat.*
+  ▶︎ Org: **BlockchainPresence** — [https://github.com/BlockchainPresence](https://github.com/BlockchainPresence)
 * **Taboo Online** — Multiplayer game with websockets, lobbies, and high test coverage.
   *React, Spring Boot, Java.*
+  ▶︎ Client repo: **sopra-fs23-group-05/Client** — [https://github.com/sopra-fs23-group-05/Client](https://github.com/sopra-fs23-group-05/Client)
 
 ---
 
