@@ -34,7 +34,7 @@ Building secure, dependable **AI systems** that people can really use — from t
   ▶︎ Repo: **therapist-app/therapist-app** — [https://github.com/therapist-app/therapist-app](https://github.com/therapist-app/therapist-app)
 * **Business Network Advisor (Eraneos)** — Enterprise **RAG** chatbot with SCION secure networking and local **Llama** models via AnythingLLM & LM Studio; Azure deployment.
   *Spring Boot, React, Azure.*
-* **No‑Code/Click‑and‑Drop Chatbot Builder (BSc thesis)** — GCP‑deployed platform enabling non‑technical users to build and embed educational/therapeutic chatbots. **Grade 5.5/6.0 (magna cum laude).**
+* **No‑Code/Click‑and‑Drop Chatbot Builder (BSc thesis)** — GCP‑deployed platform enabling non‑technical users to build and embed educational/therapeutic chatbots. **Grade 5.5/6.0.**
   *React, Spring Boot, Node.js, SonarCloud, GCP.*
 * **Blockchain Presence / Equity‑Token** — ERC‑20 extension aligned with **CMTA (2018)** blueprint; comprehensive **Hardhat** testing for Swiss equity tokens.
   *Solidity, Hardhat.*
