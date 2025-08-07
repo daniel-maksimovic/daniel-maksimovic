@@ -20,9 +20,9 @@ Building secure, dependable **AI systems** that people can really use — from t
 
 ## Research
 
-* **Joining Forces for AI‑based Customer Feedback Management** — *Information Systems Seminar Conference, UZH* (published **2025**, research 2024) — **Grade 6.0/6.0**
+* **Joining Forces for AI‑based Customer Feedback Management** — *Information Systems Seminar Conference, UZH* (research 2025) — **Grade 6.0/6.0**
   Benchmarked **20** CFM providers and mapped *AI‑role breadth × human‑AI collaboration intensity*; interviews with CEOs; proposed a governance model for human‑in‑the‑loop quality assurance.
-* **Hybrid Human–AI Teams in Digital Leadership: A Comprehensive Literature Review** — *University of Zurich* (published **2025**, research 2024) — **Grade 6.0/6.0**
+* **Hybrid Human–AI Teams in Digital Leadership: A Comprehensive Literature Review** — *University of Zurich* (research 2025) — **Grade 6.0/6.0**
   Surveyed **80+** studies; synthesised challenges (trust, communication, role ambiguity) and future trends; outlined ethical governance and algorithmic‑leadership guidelines.
 
 ---
