@@ -29,9 +29,9 @@ Building secure, dependable **AI systems** that people can really use — from t
 
 ## Selected projects
 
-* **Therapist App (MSc project)** — Full‑stack platform for creating AI chatbots for therapy sessions; patient management, session analytics, and safe deployment.
-  *Java, Spring Boot, TypeScript/React, Kubernetes, Docker, Vite, SonarCloud.*
-  ▶︎ Repo: **therapist-app/therapist-app** — [https://github.com/therapist-app/therapist-app](https://github.com/therapist-app/therapist-app)
+* **Nexa Platform (MSc project)**: therapist-centric no-code platform to design, supervise, and evaluate AI counseling agents. Features counseling plans, reusable exercises, journaling, meeting transcription + AI summaries, GAD-7 assignment/results, chatbot configuration (incl. document uploads), and a therapist assistant (“Eliza”)—with interaction monitoring & harmful-content alerts; client-activity dashboards. Piloted for two weeks with licensed therapists.
+  *Java 21, Spring Boot, TypeScript/React (Vite, MUI), PostgreSQL, Hibernate, OpenAPI/Generator, Gradle, Docker, GitHub Actions, SonarCloud; dual-LLM routing (UZH local gemma3:12b, Azure OpenAI GPT-4.1—Sweden).*
+  ▶︎ Repo: **nexa-platform/nexa-platform** — https://github.com/nexa-platform/nexa-platform
 * **Business Network Advisor (Eraneos)** — Enterprise **RAG** chatbot with SCION secure networking and local **Llama** models via AnythingLLM & LM Studio; Azure deployment.
   *Spring Boot, React, Azure.*
 * **No‑Code/Click‑and‑Drop Chatbot Builder (BSc thesis)** — GCP‑deployed platform enabling non‑technical users to build and embed educational/therapeutic chatbots. **Grade 5.5/6.0.**
