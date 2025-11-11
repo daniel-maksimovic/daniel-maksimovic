@@ -89,7 +89,7 @@ Solidity · Hardhat
 
 ## Let’s connect
 
-* 🌐 **Website** [https://danielmaksimovic.com/]
 * 📫 **[daniel.maksimovic01@gmail.com](mailto:daniel.maksimovic01@gmail.com)**
+* * 🌐 **Website:** [https://danielmaksimovic.com/]
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/daniel-maksimovic/](https://www.linkedin.com/in/daniel-maksimovic/)
 * 🧑‍💻 **GitHub:** [https://github.com/daniel-maksimovic](https://github.com/daniel-maksimovic)
